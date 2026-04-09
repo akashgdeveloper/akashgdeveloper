@@ -11,7 +11,7 @@
 * 🤖 Exploring **AI integrations** with tools like Copilot & Claude
 * 👯 Open to collaborating on **enterprise-level full-stack projects**
 * 🤝 Interested in **AI-powered backend systems & MCP servers**
-* 🌱 Continuously learning **cloud architecture & AI-driven development**
+* 🌱 Continuously learning **AI-driven development**
 * ⚡ Love optimizing performance & automating workflows
 
 ---
@@ -21,7 +21,7 @@
 ### 👨‍💻 Backend
 
 * C# | .NET Core | ASP.NET MVC
-* REST APIs | Microservices Architecture
+* REST APIs 
 
 ### 🎨 Frontend
 
