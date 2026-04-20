@@ -8,6 +8,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **scalable applications using .NET Core & Angular**
+- ⚡ Passionate about performance tuning, SQL query optimization
 - 🤖 Exploring **AI integrations** with Copilot & Claude
 - 👯 Open to collaborating on **enterprise-level full-stack projects**
 - 🤝 Interested in **AI-powered backend systems & MCP servers**
